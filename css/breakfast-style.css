@@ -1,0 +1,31 @@
+.header {
+    background: linear-gradient(#ddd, #001166);
+}
+
+.header-btn {
+    background-color: transparent;
+    color: #c30068;
+}
+
+.menu-btn {
+    background-color: 
+}
+
+.background {
+    background: url(../img/breakfast-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 150vh;
+}
+
+.container {
+    width: 650px;
+}
+
+.header{
+    font-family: 'Pacifico', cursive;
+}
+
+.header h2 {
+    font-size: 50px;
+}
