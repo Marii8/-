@@ -3,3 +3,10 @@ jQuery(function($) {
         images: ['img/chatan1.jpeg','img/bg2.jpg','img/bg3.jpg'], // 切り替える背景画像を指定
     });
 });
+
+
+$('.tagline').letterfx({"fx":"fall", "letter_end":"stay"});
+
+// $('.tagline').arctext({
+//     radius: 400,
+// });
