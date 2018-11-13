@@ -37,3 +37,19 @@ ul {
 main {
   height: 650px;
 }
+
+.modal {
+  margin-top: 100px;
+}
+
+.modal-body {
+  height: 550px;
+  padding: 0;
+  background-color: black;
+}
+
+.modal-body img {
+  height: 549px;
+  width: 465px;
+  margin-top: -15px;
+}
