@@ -15,7 +15,7 @@
     background: url(../img/breakfast-bg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    height: 150vh;
+    height: 1600px;
 }
 
 .container {
@@ -28,4 +28,21 @@
 
 .header h2 {
     font-size: 50px;
+}
+
+.map-bg,
+.map-title {
+    background-color: #ece8ec;
+}
+
+.card img {
+    width: 286px;
+    height: 180px;
+    /*object-fit: contain;*/
+}
+
+.menu-bar,
+.menu-bar:hover {
+    text-decoration: none;
+    color: #c30068;
 }
