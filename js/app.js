@@ -11,3 +11,12 @@ $('.tagline').letterfx({"fx":"fall", "letter_end":"stay"});
 //     radius: 400,
 // });
 
+$(function() {
+    $('[data-toggle="poppver"]').popover()
+});
+
+$(function() {
+    $('.depo').popover({
+        container: 'body',
+    })
+})

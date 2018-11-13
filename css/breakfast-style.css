@@ -11,11 +11,11 @@
     background-color: 
 }
 
-.background {
+.breakfast-background {
     background: url(../img/breakfast-bg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    height: 1600px;
+    height: 1500px;
 }
 
 .container {
