@@ -1,0 +1,26 @@
+body {
+  background-image: url(../img/bb.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100vw;
+  height: 100vh;
+}
+
+img {
+  width: 50vw;
+  height: 50vh;
+  margin-top: 130px;
+}
+
+.picture {
+  display: flex;
+  justify-content: center;
+}
+
+ul {
+  padding: 0;
+}
+
+main {
+  height: 650px;
+}
